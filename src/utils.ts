@@ -5,6 +5,3 @@ function getRandomInt(min: number, max: number) {
 }
 
 export default getRandomInt;
-
-
-//initial commit
